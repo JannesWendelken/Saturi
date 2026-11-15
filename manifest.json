@@ -1,9 +1,0 @@
-{
-  "name": "Saturi Wallet",
-  "description": "Open Source Solana Wallet.",
-  "version": "1.0",
-  "manifest_version": 3,
-  "action": {
-    "default_popup": "app.html"
-  }
-}

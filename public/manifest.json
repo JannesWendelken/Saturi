@@ -1,0 +1,14 @@
+{
+  "manifest_version": 3,
+  "name": "SATURI WALLET — Solana Devnet",
+  "short_name": "Saturi Wallet",
+  "version": "0.2.0",
+  "description": "A dark terminal-inspired Solana wallet prototype for Devnet.",
+  "action": {
+    "default_title": "Open SATURI WALLET",
+    "default_popup": "index.html"
+  },
+  "host_permissions": [
+    "https://api.devnet.solana.com/*"
+  ]
+}
